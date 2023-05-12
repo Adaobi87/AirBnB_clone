@@ -8,5 +8,5 @@
 ## Project Steps
 
 ## Authors
-- **Adaobi Okoye** - (https://github.com/Adaobi87)
+- **Adaobi Okoye** <adaobiokoye52@gmail.com>
 - **Akor Sunday** - (https://github.com/FmpCodes)
