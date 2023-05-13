@@ -9,4 +9,4 @@
 
 ## Authors
 - **Adaobi Okoye** <adaobiokoye52@gmail.com>
-- **Akor Sunday** - (https://github.com/FmpCodes)
+- **Akor Sunday** - <adaobiokoye52@gmail.com>
