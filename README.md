@@ -9,4 +9,4 @@
 
 ## Authors
 - **Adaobi Okoye** <adaobiokoye52@gmail.com>
-- **Akor Sunday** - <adaobiokoye52@gmail.com>
+- **Akor Sunday** - <akorsunday070@gmail.com>
