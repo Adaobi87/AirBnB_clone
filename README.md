@@ -1,4 +1,4 @@
-## 0x00. AirBnB clone - The console
+# 0x00. AirBnB clone - The console
  A team/group project
 
 ## Project Description
@@ -7,7 +7,7 @@
 
 ## Project Steps
 
-# Description of the command interpreter
+## Description of the command interpreter
 
 ## Authors
 - **Adaobi Okoye** <adaobiokoye52@gmail.com>
